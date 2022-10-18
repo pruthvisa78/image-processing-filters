@@ -1,3 +1,3 @@
 # image-processing-filters
 Gaussian-Median-Spatial-Image-Filters
-Go throught readme.txt for more details
+Go through ReadMe.txt for more details
